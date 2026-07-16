@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: criticofpoliticaleconomy.github.io/CoPE
+  baseUrl: "criticofpoliticaleconomy.github.io/CoPE"
   ignorePatterns:
     - private
     - templates
