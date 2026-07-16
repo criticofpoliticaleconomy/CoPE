@@ -1,0 +1,1 @@
+[[Nick Srnicek. Platform capitalism (2017)]]
